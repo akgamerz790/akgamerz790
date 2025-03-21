@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Unity Game Development Engine
 - 💞️ I’m looking to collaborate on NOTHING (for now)
 - 📫 ig- akgamerz_790
-- 😄 Pronouns: MADHUR BISHNOI / #MADHUR_BHAI
+- 😄 Pronouns: ROCKDGYT / #MADHUR_BHAI
 - ⚡ Fun fact: C++ is dope.
 
 <!---
