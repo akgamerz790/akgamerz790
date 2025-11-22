@@ -168,41 +168,7 @@ public class DeveloperProfile
 </div>
 
 ---
-
-## 📝 **SETUP INSTRUCTIONS FOR CONTRIBUTION SNAKE**
-
-To enable the contribution snake animation, you need to set up a GitHub Action:
-
-1. Create `.github/workflows/snake.yml` in your profile repository
-2. Add this code:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: akgamerz790
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. The snake will auto-update every 12 hours!
+# @akgamerz_790 🔥
 
 
 <!---
