@@ -22,9 +22,9 @@ VIBE CODER PRO+
 ## 🔥 **TECH ARSENAL**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,c,js,ts,py,nodejs,express,dotnet&perline=2" alt="Languages & Core" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,c,js,ts,py,nodejs,express,dotnet&perline=9" alt="Languages & Core" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&perline=10" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&perline=5" alt="Frontend" />
   <br/>
   <img src="https://skillicons.dev/icons?i=unity,blender,gimp,inkscape,figma&perline=5" alt="Game Dev & Design" />
   <br/>
