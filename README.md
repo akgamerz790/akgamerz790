@@ -4,6 +4,7 @@ VIBE CODER PRO+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=akgamerz790&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
 ### ⚡ Full-Stack Developer | Game Dev Enthusiast | Code Architect ⚡
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G61PADM0)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Systems+That+Scale;Crafting+Experiences+That+Inspire;Shipping+Code+With+Purpose" alt="Typing SVG" />
 
