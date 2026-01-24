@@ -7,15 +7,6 @@ VIBE CODER PRO+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G61PADM0)
 </div>
 
----
-
-## **WHAT I BUILD**
-
- -  Video Games
- -  Minecraft Mods  [Specifically for Fabric]
- -  games
- -  Code
- -  
 ## **GITHUB STATS**
 
 <p align="center">
