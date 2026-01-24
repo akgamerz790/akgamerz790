@@ -1,7 +1,7 @@
 VIBE CODER PRO+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=akgamerz790&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
+ # akgamerz_790
 
 ###  Minecraft Mod Developer
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G61PADM0)
@@ -15,7 +15,7 @@ VIBE CODER PRO+
  -  Minecraft Mods  [Specifically for Fabric]
  -  games
  -  Code
-
+ -  
 ## **GITHUB STATS**
 
 <p align="center">
@@ -30,23 +30,10 @@ VIBE CODER PRO+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akgamerz790&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff" alt="Contribution Graph" />
 </p>
----
-
-## **ACHIEVEMENTS & FOCUS AREAS**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/100+-Projects_Built-00d9ff?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-00d9ff?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Full_Stack-Developer-00d9ff?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Game_Dev-Unity_Engine-00d9ff?style=for-the-badge&labelColor=0d1117" />
-</p>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akgamerz790&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
-
-### **"Building the future, one commit at a time"**
 
 # @akgamerz_790 🔥
 <!---
